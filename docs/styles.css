@@ -221,3 +221,12 @@ code {
   }
 }
 
+.store-links {
+  margin-top: 8px;
+}
+
+.store-sep {
+  margin: 0 8px;
+  color: var(--muted);
+}
+
